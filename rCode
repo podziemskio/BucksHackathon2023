@@ -1,0 +1,120 @@
+data <- read.csv("Previous Seasons.csv")
+data$MasterEventDate <- as.Date(data$MasterEventDate, format = "%m/%d/%y")
+
+df <- data$CompetingSportingTeamCount
+df[df == "NULL"] <- 0
+data$CompetingSportingTeamCount <- df
+
+df <- data$Holiday
+df[df == "NULL"] <- "no"
+data$Holiday <- df
+
+#model to get season adjustment
+modelYear <- lm(Premim.Revenue ~ SeasonKey, data = data)
+summary(modelYear) # 20927
+
+data$SeasonKey <- (data$SeasonKey - 2018)
+data$Premim.Revenue <- data$Premim.Revenue - (20927 * data$SeasonKey)
+data$Premim.Revenue[data$Premim.Revenue < 0] <- 0
+
+dataTest = data[-2]
+dataTest = dataTest[-2]
+dataTest = dataTest[-27]
+dataTest = dataTest[-27]
+
+model <- lm(Premim.Revenue ~ ., data = dataTest)
+summary(model)
+
+model_base <- lm(Premim.Revenue ~ 1, data=dataTest)
+summary(model_base)
+stepmodel <- step(model_base, direction="forward",scope = formula(model), trace=TRUE)
+summary(stepmodel)
+
+qqnorm(stepmodel$residuals) 
+qqline(stepmodel$residuals) 
+hist(dataTest$Premim.Revenue) #might want to consider log transform, data is right skewed
+
+
+
+#TREES, we don't need to include the seasonKey in this data since this will not be a factor used in the actual model
+#we should, however, try and use it as an adjustment as price increases as season increases, inflation factor
+library(tree)
+dataTest <- dataTest[-1] #remove seasonKey
+#if we are setting the groups for ticket prices before the games occur, the win/loss count at the time of the game will
+#not be as influential, a prediction could be made for wins/losses but that is a different can of worms
+dataTest <- dataTest[-c(11,12,13,14)]
+#make sure remaining non-numerics are factored
+dataTest$Opponent <- as.factor(dataTest$Opponent)
+dataTest$MonthName <- as.factor(dataTest$MonthName)
+dataTest$DayofWeek <- as.factor(dataTest$DayofWeek)
+dataTest$Holiday <- as.factor(dataTest$Holiday)
+dataTest$Division <- as.factor(dataTest$Division)
+dataTest$Conference <- as.factor(dataTest$Conference)
+
+tree.model.full <- tree(Premim.Revenue ~ ., data = dataTest)
+summary(tree.model.full)
+
+plot(tree.model.full)
+text(tree.model.full)
+
+cv.model <- cv.tree(tree.model.full)
+plot(cv.model)
+cv.model$dev
+
+best.size <- cv.model$size[which(cv.model$dev == min(cv.model$dev))]
+cv.pruned <- prune.tree(tree.model.full, best = 11)
+cv.pruned
+
+library(rpart)
+plot(cv.pruned)
+text(cv.pruned)
+
+
+#ln transformed data
+dataTest2 <- dataTest
+epsilon <- 1e-10
+dataTest2$Premim.Revenue <- log(dataTest2$Premim.Revenue + epsilon)
+
+tree.model.Ln <- tree(Premim.Revenue ~ ., data = dataTest2)
+summary(tree.model.Ln)
+
+plot(tree.model.Ln)
+text(tree.model.Ln)
+
+cv.modelLn <- cv.tree(tree.model.Ln)
+plot(cv.modelLn)
+
+cv.prunedLn <- prune.tree(tree.model.Ln, best = 6)
+
+plot(cv.prunedLn)
+text(cv.prunedLn)
+
+
+#k = 2
+k2 <- kmeans(dataTest, centers = 2, nstart = 25)
+fviz_cluster(k2,data = data)
+
+data %>%
+  as_tibble() %>%
+  mutate(cluster = k2$cluster, state = row.names(data)) %>%
+  ggplot(aes(Murder, Assault, color = factor(cluster), label = state)) + geom_text()
+
+k3 <- kmeans(data, centers = 3, nstart = 25)
+k4 <- kmeans(data, centers = 4, nstart = 25)
+k5 <- kmeans(data, centers = 5, nstart = 25)
+
+p1 <- fviz_cluster(k2, geom = "point", data = data) + ggtitle("K=2")
+p2 <- fviz_cluster(k3, geom = "point", data = data) + ggtitle("K=3")
+p3 <- fviz_cluster(k4, geom = "point", data = data) + ggtitle("K=4")
+p4 <- fviz_cluster(k5, geom = "point", data = data) + ggtitle("K=5")
+
+dataPredict <- read.csv("Schedule.csv")
+dataPredict$Opponent <- as.factor(dataPredict$Opponent)
+dataPredict$MonthName <- as.factor(dataPredict$MonthName)
+dataPredict$DayofWeek <- as.factor(dataPredict$DayofWeek)
+dataPredict$Holiday <- as.factor(dataPredict$Holiday)
+dataPredict$Division <- as.factor(dataPredict$Division)
+dataPredict$Conference <- as.factor(dataPredict$Conference)
+predictions <- predict(cv.pruned, dataPredict)
+table(predictions)
+predictions
