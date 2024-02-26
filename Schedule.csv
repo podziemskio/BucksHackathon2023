@@ -1,0 +1,42 @@
+﻿Opponent,HomeGameNumber,HomeGameDateDiff,BowlTier,MonthName,DayofWeek,DayofMonth,IsHoliday,Holiday,CompetingSportingTeamCount,NumofPlayersWhoMadeAllStarTeamLastSeason,Division,Conference,OppPrevSeasonWinCount,OppPrevSeasonLoseCount,OppPrevSeasonWin%,OppPrevSeasonConfSemis,OppPrevSeasonConfFinals,OppPrevSeasonNBAFinals,OppPrevSeasonNBAChamps,
+Philadelphia 76ers,1,0,B,October,Thursday,26,0,NULL,NULL,1,Atlantic,Eastern,54,28,0.658536585,1,0,0,0,1724.324
+Atlanta Hawks,2,3,D,October,Sunday,29,0,NULL,1,0,Southeast,Eastern,41,41,0.5,0,0,0,0,1724.324
+Miami Heat,3,1,D,October,Monday,30,0,NULL,NULL,1,Southeast,Eastern,44,38,0.536585366,1,1,1,0,1724.324
+New York Knicks,4,4,B,November,Friday,3,0,NULL,NULL,1,Atlantic,Eastern,47,35,0.573170732,1,0,0,0,1724.324
+Detroit Pistons,5,5,D,November,Wednesday,8,0,NULL,NULL,0,Central,Eastern,17,65,0.207317073,0,0,0,0,1724.324
+Chicago Bulls,6,5,D,November,Monday,13,0,NULL,NULL,1,Central,Eastern,40,42,0.487804878,0,0,0,0,7014.2
+Dallas Mavericks,7,5,B,November,Saturday,18,0,NULL,1,2,Southwest,Western,38,44,0.463414634,0,0,0,0,1724.324
+Washington Wizards,8,6,D,November,Friday,24,0,NULL,NULL,0,Southeast,Eastern,35,47,0.426829268,0,0,0,0,1724.324
+Portland Trail Blazers,9,2,D,November,Sunday,26,0,NULL,NULL,1,Northwest,Western,33,49,0.402439024,0,0,0,0,1724.324
+Atlanta Hawks,10,6,C,December,Saturday,2,0,NULL,NULL,0,Southeast,Eastern,41,41,0.5,0,0,0,0,5384.41
+New York Knicks,11,3,D,December,Tuesday,5,0,NULL,NULL,1,Atlantic,Eastern,47,35,0.573170732,1,0,0,0,5384.41
+Chicago Bulls,12,6,D,December,Monday,11,0,NULL,NULL,1,Central,Eastern,40,42,0.487804878,0,0,0,0,84428.286
+Indiana Pacers,13,2,D,December,Wednesday,13,0,NULL,NULL,1,Central,Eastern,35,47,0.426829268,0,0,0,0,11796.619
+Detroit Pistons,14,3,C,December,Saturday,16,0,NULL,NULL,0,Central,Eastern,17,65,0.207317073,0,0,0,0,5384.41
+Houston Rockets,15,1,D,December,Sunday,17,0,NULL,1,0,Southwest,Western,22,60,0.268292683,0,0,0,0,5384.41
+San Antonio Spurs,16,2,D,December,Tuesday,19,0,NULL,NULL,0,Southwest,Western,22,60,0.268292683,0,0,0,0,11796.619
+Orlando Magic,17,2,D,December,Thursday,21,0,NULL,NULL,0,Southeast,Eastern,34,48,0.414634146,0,0,0,0,11796.619
+Indiana Pacers,18,11,D,January,Monday,1,1,New Year's Day,NULL,1,Central,Eastern,35,47,0.426829268,0,0,0,0,11796.619
+Utah Jazz,19,7,D,January,Monday,8,0,NULL,NULL,1,Northwest,Western,37,45,0.451219512,0,0,0,0,11796.619
+Boston Celtics,20,3,A,January,Thursday,11,0,NULL,NULL,2,Atlantic,Eastern,57,25,0.695121951,1,1,0,0,32467.333
+Golden State Warriors,21,2,A,January,Saturday,13,0,NULL,NULL,1,Pacific,Western,44,38,0.536585366,0,0,0,0,7014.2
+Sacramento Kings,22,1,C,January,Sunday,14,0,NULL,NULL,2,Pacific,Western,48,34,0.585365854,0,0,0,0,781.5
+Cleveland Cavaliers,23,10,D,January,Wednesday,24,0,NULL,NULL,1,Central,Eastern,51,31,0.62195122,0,0,0,0,5384.41
+Cleveland Cavaliers,24,2,C,January,Friday,26,0,NULL,NULL,1,Central,Eastern,51,31,0.62195122,0,0,0,0,5384.41
+New Orleans Pelicans,25,1,B,January,Saturday,27,0,NULL,NULL,1,Southwest,Western,42,40,0.512195122,0,0,0,0,5384.41
+Minnesota Timberwolves,26,12,D,February,Thursday,8,0,NULL,NULL,1,Northwest,Western,42,40,0.512195122,0,0,0,0,5384.41
+Charlotte Hornets,27,1,C,February,Friday,9,0,NULL,NULL,0,Southeast,Eastern,27,55,0.329268293,0,0,0,0,11796.619
+Denver Nuggets,28,3,B,February,Monday,12,0,NULL,NULL,1,Northwest,Western,53,29,0.646341463,1,1,1,1,31341.6
+Miami Heat,29,1,C,February,Tuesday,13,0,NULL,NULL,1,Southeast,Eastern,44,38,0.536585366,1,1,1,0,31341.6
+Charlotte Hornets,30,14,D,February,Tuesday,27,0,NULL,NULL,0,Southeast,Eastern,27,55,0.329268293,0,0,0,0,11796.619
+Los Angeles Clippers,31,6,D,March,Monday,4,0,NULL,NULL,1,Pacific,Western,44,38,0.536585366,0,0,0,0,781.5
+Philadelphia 76ers,32,10,B,March,Thursday,14,0,NULL,NULL,1,Atlantic,Eastern,54,28,0.658536585,1,0,0,0,781.5
+Phoenix Suns,33,3,A,March,Sunday,17,1,Saint Patrick's Day,NULL,1,Pacific,Western,45,37,0.548780488,1,0,0,0,781.5
+Brooklyn Nets,34,4,C,March,Thursday,21,0,NULL,NULL,0,Atlantic,Eastern,45,37,0.548780488,0,0,0,0,84428.286
+Oklahoma City Thunder,35,3,C,March,Sunday,24,0,NULL,NULL,1,Northwest,Western,40,42,0.487804878,0,0,0,0,11796.619
+Los Angeles Lakers,36,2,A,March,Tuesday,26,0,NULL,NULL,1,Pacific,Western,43,39,0.524390244,1,1,0,0,84428.286
+Memphis Grizzlies,37,8,D,April,Wednesday,3,0,NULL,1,2,Southwest,Western,51,31,0.62195122,1,0,0,0,84428.286
+Toronto Raptors,38,2,C,April,Friday,5,0,NULL,1,1,Atlantic,Eastern,41,41,0.5,0,0,0,0,5384.41
+New York Knicks,39,2,C,April,Sunday,7,0,NULL,1,1,Atlantic,Eastern,47,35,0.573170732,1,0,0,0,5384.41
+Boston Celtics,40,2,B,April,Tuesday,9,0,NULL,NULL,2,Atlantic,Eastern,57,25,0.695121951,1,1,0,0,84428.286
+Orlando Magic,41,1,D,April,Wednesday,10,0,NULL,NULL,0,Southeast,Eastern,34,48,0.414634146,0,0,0,0,11796.619

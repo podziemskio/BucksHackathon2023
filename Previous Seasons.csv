@@ -1,0 +1,155 @@
+﻿SeasonKey,MasterEventName,MasterEventDate,Opponent,HomeGameNumber,HomeGameDateDiff,BowlTier,MonthName,DayofWeek,DayofMonth,IsHoliday,Holiday,CompetingSportingTeamCount,BucksWinFlag,BucksWinCount,BucksLoseCount,BucksWin%,NumofPlayersWhoMadeAllStarTeamLastSeason,Division,Conference,OppPrevSeasonWinCount,OppPrevSeasonLoseCount,OppPrevSeasonWin%,OppPrevSeasonConfSemis,OppPrevSeasonConfFinals,OppPrevSeasonNBAFinals,OppPrevSeasonNBAChamps, Premim Revenue , Total Revenue ,Premium %
+2018,2018-10-19 Indiana Pacers,10/19/2018,Indiana Pacers,1,0,A,October,Friday,19,0,NULL,NULL,1,2,0,1,1,Central,Eastern,48,34,0.585,1,0,0,0,0.00,1127818.00,0.00
+2018,2018-10-22 New York Knicks,10/22/2018,New York Knicks,2,3,D,October,Monday,22,0,NULL,NULL,1,3,0,1,0,Atlantic,Eastern,29,53,0.354,0,0,0,0,0.00,920855.00,0.00
+2018,2018-10-24 Philadelphia 76ers,10/24/2018,Philadelphia 76ers,3,2,C,October,Wednesday,24,0,NULL,NULL,1,4,0,1,1,Atlantic,Eastern,52,30,0.634,1,0,0,0,0.00,973416.00,0.00
+2018,2018-10-27 Orlando Magic,10/27/2018,Orlando Magic,4,3,C,October,Saturday,27,0,NULL,NULL,1,6,0,1,0,Southeast,Eastern,25,57,0.305,0,0,0,0,0.00,1043424.00,0.00
+2018,2018-10-29 Toronto Raptors,10/29/2018,Toronto Raptors,5,2,C,October,Monday,29,0,NULL,NULL,1,7,0,1,1,Atlantic,Eastern,59,23,0.72,1,0,0,0,0.00,1118806.00,0.00
+2018,2018-11-04 Sacramento Kings,11/4/2018,Sacramento Kings,6,6,D,November,Sunday,4,0,NULL,NULL,1,8,1,0.889,0,Pacific,Western,27,55,0.329,0,0,0,0,58.00,1163869.00,0.00
+2018,2018-11-14 Memphis Grizzlies,11/14/2018,Memphis Grizzlies,7,10,D,November,Wednesday,14,0,NULL,NULL,0,10,4,0.714,0,Southwest,Western,22,60,0.268,0,0,0,0,1586.00,1006674.00,0.00
+2018,2018-11-16 Chicago Bulls,11/16/2018,Chicago Bulls,8,2,D,November,Friday,16,0,NULL,NULL,1,11,4,0.733,0,Central,Eastern,27,55,0.329,0,0,0,0,1672.00,1300109.00,0.00
+2018,2018-11-19 Denver Nuggets,11/19/2018,Denver Nuggets,9,3,C,November,Monday,19,0,NULL,NULL,1,12,4,0.75,0,Northwest,Western,46,36,0.561,0,0,0,0,790.00,1137756.00,0.00
+2018,2018-11-21 Portland Trail Blazers,11/21/2018,Portland Trail Blazers,10,2,D,November,Wednesday,21,0,NULL,NULL,1,13,4,0.765,1,Northwest,Western,49,33,0.598,1,0,0,0,1211.00,1267363.00,0.00
+2018,2018-11-23 Phoenix Suns,11/23/2018,Phoenix Suns,11,2,D,November,Friday,23,0,NULL,NULL,0,13,5,0.722,0,Pacific,Western,21,61,0.256,0,0,0,0,2041.00,1264039.00,0.00
+2018,2018-11-24 San Antonio Spurs,11/24/2018,San Antonio Spurs,12,1,C,November,Saturday,24,0,NULL,1,1,14,5,0.737,2,Southwest,Western,47,35,0.573,1,0,0,0,509.00,1354046.00,0.00
+2018,2018-11-28 Chicago Bulls,11/28/2018,Chicago Bulls,13,4,C,November,Wednesday,28,0,NULL,NULL,1,15,6,0.714,0,Central,Eastern,27,55,0.329,0,0,0,0,2257.00,1231779.00,0.00
+2018,2018-12-05 Detroit Pistons,12/5/2018,Detroit Pistons,14,7,D,December,Wednesday,5,0,NULL,NULL,1,16,7,0.696,1,Central,Eastern,39,43,0.476,0,0,0,0,2583.00,1068451.00,0.00
+2018,2018-12-07 Golden State Warriors,12/7/2018,Golden State Warriors,15,2,D,December,Friday,7,0,NULL,NULL,0,16,8,0.667,5,Pacific,Western,58,24,0.707,1,1,1,1,3024.00,1485309.00,0.00
+2018,2018-12-10 Cleveland Cavaliers,12/10/2018,Cleveland Cavaliers,16,3,A,December,Monday,10,0,NULL,NULL,1,18,8,0.692,1,Central,Eastern,50,32,0.61,1,1,1,0,876.00,1046354.00,0.00
+2018,2018-12-19 New Orleans Pelicans,12/19/2018,New Orleans Pelicans,17,9,D,December,Wednesday,19,0,NULL,NULL,1,21,9,0.7,1,Southwest,Western,48,34,0.585,1,0,0,0,1216.00,1314752.00,0.00
+2018,2018-12-27 New York Knicks,12/27/2018,New York Knicks,18,8,D,December,Thursday,27,0,NULL,NULL,1,24,10,0.706,0,Atlantic,Eastern,29,53,0.354,0,0,0,0,1940.00,1389662.00,0.00
+2018,2018-12-29 Brooklyn Nets,12/29/2018,Brooklyn Nets,19,2,C,December,Saturday,29,0,NULL,NULL,1,25,10,0.714,0,Atlantic,Eastern,28,54,0.341,0,0,0,0,1998.00,1304573.00,0.00
+2018,2019-01-01 Detroit Pistons,1/1/2019,Detroit Pistons,20,3,D,January,Tuesday,1,1,New Year's Day,NULL,1,26,10,0.722,1,Central,Eastern,39,43,0.476,0,0,0,0,466.00,1190040.00,0.00
+2018,2019-01-04 Atlanta Hawks,1/4/2019,Atlanta Hawks,21,3,D,January,Friday,4,0,NULL,NULL,1,27,10,0.73,0,Southeast,Eastern,24,58,0.293,0,0,0,0,1018.00,1256890.00,0.00
+2018,2019-01-05 Toronto Raptors,1/5/2019,Toronto Raptors,22,1,C,January,Saturday,5,0,NULL,NULL,0,27,11,0.711,1,Atlantic,Eastern,59,23,0.72,1,0,0,0,1605.00,1371411.00,0.00
+2018,2019-01-07 Utah Jazz,1/7/2019,Utah Jazz,23,2,D,January,Monday,7,0,NULL,NULL,1,28,11,0.718,0,Northwest,Western,48,34,0.585,1,0,0,0,1159.00,1205245.00,0.00
+2018,2019-01-15 Miami Heat,1/15/2019,Miami Heat,24,8,D,January,Tuesday,15,0,NULL,NULL,1,31,12,0.721,1,Southeast,Eastern,44,38,0.537,1,0,0,0,1958.00,1234010.00,0.00
+2018,2019-01-21 Dallas Mavericks,1/21/2019,Dallas Mavericks,25,6,D,January,Monday,21,1,Martin Luther King Jr. Day,NULL,1,34,12,0.739,0,Southwest,Western,24,58,0.293,0,0,0,0,808.00,1268336.00,0.00
+2018,2019-01-25 Charlotte Hornets,1/25/2019,Charlotte Hornets,26,4,C,January,Friday,25,0,NULL,NULL,1,35,12,0.745,1,Southeast,Eastern,36,46,0.439,0,0,0,0,2700.00,1325535.00,0.00
+2018,2019-02-06 Washington Wizards,2/6/2019,Washington Wizards,27,12,D,February,Wednesday,6,0,NULL,NULL,1,40,13,0.755,2,Southeast,Eastern,43,39,0.524,1,0,0,0,2796.00,1222070.00,0.00
+2018,2019-02-09 Orlando Magic,2/9/2019,Orlando Magic,28,3,C,February,Saturday,9,0,NULL,NULL,0,41,14,0.745,0,Southeast,Eastern,25,57,0.305,0,0,0,0,1920.00,1290157.00,0.00
+2018,2019-02-21 Boston Celtics,2/21/2019,Boston Celtics,29,12,B,February,Thursday,21,0,NULL,NULL,1,44,14,0.759,2,Atlantic,Eastern,55,27,0.671,1,1,0,0,4533.00,1391423.00,0.00
+2018,2019-02-23 Minnesota Timberwolves,2/23/2019,Minnesota Timberwolves,30,2,C,February,Saturday,23,0,NULL,NULL,1,45,14,0.763,1,Northwest,Western,47,35,0.573,1,0,0,0,1705.00,1366470.00,0.00
+2018,2019-03-07 Indiana Pacers,3/7/2019,Indiana Pacers,31,12,D,March,Thursday,7,0,NULL,NULL,1,49,16,0.754,1,Central,Eastern,48,34,0.585,1,0,0,0,2552.00,1256641.00,0.00
+2018,2019-03-09 Charlotte Hornets,3/9/2019,Charlotte Hornets,32,2,C,March,Saturday,9,0,NULL,NULL,1,50,16,0.758,1,Southeast,Eastern,36,46,0.439,0,0,0,0,2928.00,1303882.00,0.00
+2018,2019-03-17 Philadelphia 76ers,3/17/2019,Philadelphia 76ers,33,8,B,March,Sunday,17,1,Saint Patrick's Day,NULL,0,52,18,0.743,2,Atlantic,Eastern,52,30,0.634,1,0,0,0,978.00,1351418.00,0.00
+2018,2019-03-19 Los Angeles Lakers,3/19/2019,Los Angeles Lakers,34,2,A,March,Tuesday,19,0,NULL,NULL,1,53,18,0.746,1,Pacific,Western,35,47,0.427,0,0,0,0,5568.00,1459755.00,0.00
+2018,2019-03-22 Miami Heat,3/22/2019,Miami Heat,35,3,C,March,Friday,22,0,NULL,NULL,1,54,19,0.74,1,Southeast,Eastern,44,38,0.537,1,0,0,0,2458.00,1385453.00,0.00
+2018,2019-03-24 Cleveland Cavaliers,3/24/2019,Cleveland Cavaliers,36,2,C,March,Sunday,24,0,NULL,NULL,1,55,19,0.743,1,Central,Eastern,50,32,0.61,1,1,1,0,1354.00,1231242.00,0.00
+2018,2019-03-26 Houston Rockets,3/26/2019,Houston Rockets,37,2,C,March,Tuesday,26,0,NULL,NULL,1,56,19,0.747,1,Southwest,Western,65,17,0.793,1,1,0,0,4652.00,1314762.00,0.00
+2018,2019-03-28 Los Angeles Clippers,3/28/2019,Los Angeles Clippers,38,2,D,March,Thursday,28,0,NULL,1,1,57,19,0.75,0,Pacific,Western,42,40,0.512,0,0,0,0,1881.00,1276598.00,0.00
+2018,2019-04-06 Brooklyn Nets,4/6/2019,Brooklyn Nets,39,9,C,April,Saturday,6,0,NULL,1,0,59,21,0.738,0,Atlantic,Eastern,28,54,0.341,0,0,0,0,1581.00,1321935.00,0.00
+2018,2019-04-07 Atlanta Hawks,4/7/2019,Atlanta Hawks,40,1,C,April,Sunday,7,0,NULL,1,1,60,21,0.741,0,Southeast,Eastern,24,58,0.293,0,0,0,0,3170.00,1212012.00,0.00
+2018,2019-04-10 Oklahoma City Thunder,4/10/2019,Oklahoma City Thunder,41,3,B,April,Wednesday,10,0,NULL,NULL,0,60,22,0.732,2,Northwest,Western,48,34,0.585,1,0,0,0,4730.00,1326787.00,0.00
+2019,2019-10-26 Miami Heat,10/26/2019,Miami Heat,1,0,A,October,Saturday,26,0,NULL,NULL,0,1,1,0.5,0,Southeast,Eastern,39,43,0.476,0,0,0,0,39846.00,1484927.00,0.03
+2019,2019-10-28 Cleveland Cavaliers,10/28/2019,Cleveland Cavaliers,2,2,D,October,Monday,28,0,NULL,NULL,1,2,1,0.667,0,Central,Eastern,19,63,0.232,0,0,0,0,15741.00,1350472.00,0.01
+2019,2019-11-02 Toronto Raptors,11/2/2019,Toronto Raptors,3,5,C,November,Saturday,2,0,NULL,NULL,1,4,2,0.667,1,Atlantic,Eastern,58,24,0.707,1,1,1,1,23412.00,1479715.00,0.02
+2019,2019-11-14 Chicago Bulls,11/14/2019,Chicago Bulls,4,12,D,November,Thursday,14,0,NULL,NULL,1,8,3,0.727,0,Central,Eastern,22,60,0.268,0,0,0,0,55127.00,1494998.00,0.04
+2019,2019-11-21 Portland Trail Blazers,11/21/2019,Portland Trail Blazers,5,7,D,November,Thursday,21,0,NULL,NULL,1,12,3,0.8,1,Northwest,Western,53,29,0.646,1,1,0,0,24678.00,1446387.00,0.02
+2019,2019-11-23 Detroit Pistons,11/23/2019,Detroit Pistons,6,2,C,November,Saturday,23,0,NULL,1,1,13,3,0.813,1,Central,Eastern,41,41,0.5,1,0,0,0,17446.00,1516659.00,0.01
+2019,2019-11-25 Utah Jazz,11/25/2019,Utah Jazz,7,2,D,November,Monday,25,0,NULL,NULL,1,14,3,0.824,0,Northwest,Western,50,32,0.61,1,0,0,0,17848.00,1446992.00,0.01
+2019,2019-11-27 Atlanta Hawks,11/27/2019,Atlanta Hawks,8,2,D,November,Wednesday,27,0,NULL,NULL,1,15,3,0.833,0,Southeast,Eastern,29,53,0.354,0,0,0,0,23102.00,1426283.00,0.02
+2019,2019-11-30 Charlotte Hornets,11/30/2019,Charlotte Hornets,9,3,C,November,Saturday,30,0,NULL,NULL,1,17,3,0.85,0,Southeast,Eastern,39,43,0.476,0,0,0,0,22756.00,1473267.00,0.02
+2019,2019-12-02 New York Knicks,12/2/2019,New York Knicks,10,2,D,December,Monday,2,0,NULL,NULL,1,18,3,0.857,0,Atlantic,Eastern,17,65,0.207,0,0,0,0,20937.00,1370791.00,0.02
+2019,2019-12-06 Los Angeles Clippers,12/6/2019,Los Angeles Clippers,11,4,A,December,Friday,6,0,NULL,NULL,1,20,3,0.87,2,Pacific,Western,48,34,0.585,1,0,0,0,58376.00,1736300.00,0.03
+2019,2019-12-09 Orlando Magic,12/9/2019,Orlando Magic,12,3,D,December,Monday,9,0,NULL,NULL,1,21,3,0.875,1,Southeast,Eastern,42,40,0.512,1,0,0,0,43699.00,1363622.00,0.03
+2019,2019-12-11 New Orleans Pelicans,12/11/2019,New Orleans Pelicans,13,2,C,December,Wednesday,11,0,NULL,NULL,1,22,3,0.88,0,Southwest,Western,33,49,0.402,0,0,0,0,43133.00,1442465.00,0.03
+2019,2019-12-14 Cleveland Cavaliers,12/14/2019,Cleveland Cavaliers,14,3,C,December,Saturday,14,0,NULL,NULL,1,24,3,0.889,0,Central,Eastern,19,63,0.232,0,0,0,0,36429.00,1468687.00,0.02
+2019,2019-12-16 Dallas Mavericks,12/16/2019,Dallas Mavericks,15,2,D,December,Monday,16,0,NULL,NULL,0,24,4,0.857,0,Southwest,Western,33,49,0.402,0,0,0,0,34719.00,1463062.00,0.02
+2019,2019-12-19 Los Angeles Lakers,12/19/2019,Los Angeles Lakers,16,3,A,December,Thursday,19,0,NULL,NULL,1,25,4,0.862,2,Pacific,Western,37,45,0.451,0,0,0,0,99643.00,1894800.00,0.05
+2019,2019-12-22 Indiana Pacers,12/22/2019,Indiana Pacers,17,3,C,December,Sunday,22,0,NULL,NULL,1,27,4,0.871,0,Central,Eastern,48,34,0.585,1,0,0,0,46397.00,1591242.00,0.03
+2019,2019-12-28 Orlando Magic,12/28/2019,Orlando Magic,18,6,C,December,Saturday,28,0,NULL,NULL,1,29,5,0.853,1,Southeast,Eastern,42,40,0.512,1,0,0,0,38013.00,1547134.00,0.02
+2019,2020-01-01 Minnesota Timberwolves,1/1/2020,Minnesota Timberwolves,19,4,D,January,Wednesday,1,1,New Year's Day,NULL,1,31,5,0.861,3,Northwest,Western,36,46,0.439,0,0,0,0,20588.00,1542098.00,0.01
+2019,2020-01-04 San Antonio Spurs,1/4/2020,San Antonio Spurs,20,3,C,January,Saturday,4,0,NULL,NULL,1,32,5,0.865,1,Southwest,Western,48,34,0.585,1,0,0,0,36046.00,1609726.00,0.02
+2019,2020-01-14 New York Knicks,1/14/2020,New York Knicks,21,10,D,January,Tuesday,14,0,NULL,NULL,1,36,6,0.857,0,Atlantic,Eastern,17,65,0.207,0,0,0,0,51170.00,1497657.00,0.03
+2019,2020-01-16 Boston Celtics,1/16/2020,Boston Celtics,22,2,C,January,Thursday,16,0,NULL,NULL,1,37,6,0.86,1,Atlantic,Eastern,49,33,0.598,1,0,0,0,51614.00,1614924.00,0.03
+2019,2020-01-20 Chicago Bulls,1/20/2020,Chicago Bulls,23,4,C,January,Monday,20,1,Martin Luther King Jr. Day,NULL,1,39,6,0.867,0,Central,Eastern,22,60,0.268,0,0,0,0,32911.00,1502958.00,0.02
+2019,2020-01-28 Washington Wizards,1/28/2020,Washington Wizards,24,8,D,January,Tuesday,28,0,NULL,NULL,1,41,6,0.872,1,Southeast,Eastern,32,50,0.39,0,0,0,0,39974.00,1468843.00,0.03
+2019,2020-01-31 Denver Nuggets,1/31/2020,Denver Nuggets,25,3,C,January,Friday,31,0,NULL,NULL,0,41,7,0.854,1,Northwest,Western,54,28,0.659,1,0,0,0,42342.00,1601706.00,0.03
+2019,2020-02-02 Phoenix Suns,2/2/2020,Phoenix Suns,26,2,C,February,Sunday,2,0,NULL,NULL,1,42,7,0.857,0,Pacific,Western,19,63,0.232,0,0,0,0,31308.00,1459557.00,0.02
+2019,2020-02-06 Philadelphia 76ers,2/6/2020,Philadelphia 76ers,27,4,C,February,Thursday,6,0,NULL,NULL,1,44,7,0.863,2,Atlantic,Eastern,51,31,0.622,1,0,0,0,68073.00,1534495.00,0.04
+2019,2020-02-10 Sacramento Kings,2/10/2020,Sacramento Kings,28,4,D,February,Monday,10,0,NULL,NULL,1,46,7,0.868,0,Pacific,Western,39,43,0.476,0,0,0,0,43949.00,1445370.00,0.03
+2019,2020-02-22 Philadelphia 76ers,2/22/2020,Philadelphia 76ers,29,12,A,February,Saturday,22,0,NULL,NULL,1,48,8,0.857,2,Atlantic,Eastern,51,31,0.622,1,0,0,0,69908.00,1811588.00,0.04
+2019,2020-02-28 Oklahoma City Thunder,2/28/2020,Oklahoma City Thunder,30,6,C,February,Friday,28,0,NULL,NULL,1,51,8,0.864,0,Northwest,Western,49,33,0.598,1,0,0,0,49535.00,1622555.00,0.03
+2019,2020-03-04 Indiana Pacers,3/4/2020,Indiana Pacers,31,5,D,March,Wednesday,4,0,NULL,NULL,1,53,9,0.855,0,Central,Eastern,48,34,0.585,1,0,0,0,38116.00,1451423.00,0.03
+2021,2021-10-19 Brooklyn Nets,10/19/2021,Brooklyn Nets,1,0,A,October,Tuesday,19,0,NULL,NULL,1,1,0,1,3,Atlantic,Eastern,48,24,0.667,1,0,0,0,107372.00,2099383.00,0.05
+2021,2021-10-27 Minnesota Timberwolves,10/27/2021,Minnesota Timberwolves,2,8,D,October,Wednesday,27,0,NULL,NULL,0,3,2,0.6,0,Northwest,Western,23,49,0.319,0,0,0,0,31117.00,1461970.00,0.02
+2021,2021-10-30 San Antonio Spurs,10/30/2021,San Antonio Spurs,3,3,C,October,Saturday,30,0,NULL,1,0,3,3,0.5,0,Southwest,Western,33,39,0.458,0,0,0,0,12753.00,1501470.00,0.01
+2021,2021-10-31 Utah Jazz,10/31/2021,Utah Jazz,4,1,C,October,Sunday,31,1,Halloween,NULL,0,3,4,0.429,2,Northwest,Western,52,20,0.722,1,0,0,0,2564.00,1430561.00,0.00
+2021,2021-11-05 New York Knicks,11/5/2021,New York Knicks,5,5,C,November,Friday,5,0,NULL,NULL,0,4,5,0.444,1,Atlantic,Eastern,41,31,0.569,1,0,0,0,20843.00,1547682.00,0.01
+2021,2021-11-17 Los Angeles Lakers,11/17/2021,Los Angeles Lakers,6,12,A,November,Wednesday,17,0,NULL,NULL,1,7,8,0.467,2,Pacific,Western,42,30,0.583,1,0,0,0,113933.00,1985673.00,0.06
+2021,2021-11-19 Oklahoma City Thunder,11/19/2021,Oklahoma City Thunder,7,2,C,November,Friday,19,0,NULL,NULL,1,8,8,0.5,0,Northwest,Western,22,50,0.306,0,0,0,0,11842.00,1481864.00,0.01
+2021,2021-11-20 Orlando Magic,11/20/2021,Orlando Magic,8,1,C,November,Saturday,20,0,NULL,1,1,9,8,0.529,0,Southeast,Eastern,21,51,0.292,0,0,0,0,32310.00,1543729.00,0.02
+2021,2021-11-22 Orlando Magic,11/22/2021,Orlando Magic,9,2,D,November,Monday,22,0,NULL,NULL,1,10,8,0.556,0,Southeast,Eastern,21,51,0.292,0,0,0,0,11286.00,1440844.00,0.01
+2021,2021-11-24 Detroit Pistons,11/24/2021,Detroit Pistons,10,2,D,November,Wednesday,24,0,NULL,NULL,1,11,8,0.579,0,Central,Eastern,20,52,0.278,0,0,0,0,37186.00,1612623.00,0.02
+2021,2021-12-01 Charlotte Hornets,12/1/2021,Charlotte Hornets,11,7,D,December,Wednesday,1,0,NULL,NULL,1,14,8,0.636,0,Southeast,Eastern,33,39,0.458,0,0,0,0,41777.00,1503552.00,0.03
+2021,2021-12-04 Miami Heat,12/4/2021,Miami Heat,12,3,B,December,Saturday,4,0,NULL,NULL,1,15,9,0.625,0,Southeast,Eastern,40,32,0.556,1,0,0,0,78082.00,1766044.00,0.04
+2021,2021-12-06 Cleveland Cavaliers,12/6/2021,Cleveland Cavaliers,13,2,D,December,Monday,6,0,NULL,NULL,1,16,9,0.64,0,Central,Eastern,22,50,0.306,0,0,0,0,33687.00,1477204.00,0.02
+2021,2021-12-15 Indiana Pacers,12/15/2021,Indiana Pacers,14,9,D,December,Wednesday,15,0,NULL,NULL,1,19,11,0.633,0,Central,Eastern,34,38,0.472,0,0,0,0,55478.00,1555606.00,0.04
+2021,2021-12-18 Cleveland Cavaliers,12/18/2021,Cleveland Cavaliers,15,3,C,December,Saturday,18,0,NULL,NULL,0,19,13,0.594,0,Central,Eastern,22,50,0.306,0,0,0,0,37825.00,1646786.00,0.02
+2021,2021-12-22 Houston Rockets,12/22/2021,Houston Rockets,16,4,D,December,Wednesday,22,0,NULL,NULL,1,20,13,0.606,0,Southwest,Western,17,55,0.236,0,0,0,0,37996.00,1587768.00,0.02
+2021,2021-12-25 Boston Celtics,12/25/2021,Boston Celtics,17,3,A,December,Saturday,25,1,Christmas,1,1,22,13,0.629,2,Atlantic,Eastern,36,36,0.5,1,0,0,0,58069.00,1775239.00,0.03
+2021,2022-01-01 New Orleans Pelicans,1/1/2022,New Orleans Pelicans,18,7,B,January,Saturday,1,1,New Year's Day,NULL,1,25,13,0.658,0,Southwest,Western,31,41,0.431,0,0,0,0,24624.00,1789942.00,0.01
+2021,2022-01-03 Detroit Pistons,1/3/2022,Detroit Pistons,19,2,D,January,Monday,3,0,NULL,1,0,25,14,0.641,0,Central,Eastern,20,52,0.278,0,0,0,0,18662.00,1474860.00,0.01
+2021,2022-01-05 Toronto Raptors,1/5/2022,Toronto Raptors,20,2,D,January,Wednesday,5,0,NULL,NULL,0,25,15,0.625,0,Atlantic,Eastern,27,45,0.375,0,0,0,0,20533.00,1507067.00,0.01
+2021,2022-01-13 Golden State Warriors,1/13/2022,Golden State Warriors,21,8,B,January,Thursday,13,0,NULL,NULL,1,27,17,0.614,1,Pacific,Western,39,33,0.542,0,0,0,0,73925.00,1949134.00,0.04
+2021,2022-01-15 Toronto Raptors,1/15/2022,Toronto Raptors,22,2,C,January,Saturday,15,0,NULL,NULL,0,27,18,0.6,0,Atlantic,Eastern,27,45,0.375,0,0,0,0,63446.00,1732497.00,0.04
+2021,2022-01-19 Memphis Grizzlies,1/19/2022,Memphis Grizzlies,23,4,D,January,Wednesday,19,0,NULL,NULL,1,28,19,0.596,0,Southwest,Western,38,34,0.528,1,0,0,0,48293.00,1632027.00,0.03
+2021,2022-01-21 Chicago Bulls,1/21/2022,Chicago Bulls,24,2,B,January,Friday,21,0,NULL,NULL,1,29,19,0.604,2,Central,Eastern,31,41,0.431,0,0,0,0,70080.00,2019977.00,0.03
+2021,2022-01-22 Sacramento Kings,1/22/2022,Sacramento Kings,25,1,C,January,Saturday,22,0,NULL,NULL,1,30,19,0.612,0,Pacific,Western,31,41,0.431,0,0,0,0,43718.00,1686363.00,0.03
+2021,2022-01-28 New York Knicks,1/28/2022,New York Knicks,26,6,C,January,Friday,28,0,NULL,NULL,1,31,20,0.608,1,Atlantic,Eastern,41,31,0.569,1,0,0,0,59332.00,1699665.00,0.03
+2021,2022-01-30 Denver Nuggets,1/30/2022,Denver Nuggets,27,2,B,January,Sunday,30,0,NULL,NULL,0,31,21,0.596,1,Northwest,Western,47,25,0.653,1,0,0,0,14741.00,1591387.00,0.01
+2021,2022-02-01 Washington Wizards,2/1/2022,Washington Wizards,28,2,D,February,Tuesday,1,0,NULL,NULL,1,32,21,0.604,1,Southeast,Eastern,34,38,0.472,1,0,0,0,37546.00,1511934.00,0.02
+2021,2022-02-14 Portland Trail Blazers,2/14/2022,Portland Trail Blazers,29,13,D,February,Monday,14,1,Valentine's Day,NULL,0,35,23,0.603,1,Northwest,Western,42,30,0.583,1,0,0,0,27279.00,1531499.00,0.02
+2021,2022-02-15 Indiana Pacers,2/15/2022,Indiana Pacers,30,1,D,February,Tuesday,15,0,NULL,NULL,1,36,23,0.61,0,Central,Eastern,34,38,0.472,0,0,0,0,32172.00,1547121.00,0.02
+2021,2022-02-17 Philadelphia 76ers,2/17/2022,Philadelphia 76ers,31,2,C,February,Thursday,17,0,NULL,NULL,0,36,24,0.6,1,Atlantic,Eastern,49,23,0.681,1,0,0,0,59974.00,1704964.00,0.04
+2021,2022-02-26 Brooklyn Nets,2/26/2022,Brooklyn Nets,32,9,A,February,Saturday,26,0,NULL,NULL,0,36,25,0.59,3,Atlantic,Eastern,48,24,0.667,1,0,0,0,105242.00,2045149.00,0.05
+2021,2022-02-28 Charlotte Hornets,2/28/2022,Charlotte Hornets,33,2,D,February,Monday,28,0,NULL,NULL,1,37,25,0.597,0,Southeast,Eastern,33,39,0.458,0,0,0,0,76062.00,1604136.00,0.05
+2021,2022-03-02 Miami Heat,3/2/2022,Miami Heat,34,2,C,March,Wednesday,2,0,NULL,NULL,1,38,25,0.603,0,Southeast,Eastern,40,32,0.556,1,0,0,0,63242.00,1728685.00,0.04
+2021,2022-03-06 Phoenix Suns,3/6/2022,Phoenix Suns,35,4,B,March,Sunday,6,0,NULL,NULL,1,40,25,0.615,1,Pacific,Western,51,21,0.708,1,1,1,0,55751.00,1985423.00,0.03
+2021,2022-03-09 Atlanta Hawks,3/9/2022,Atlanta Hawks,36,3,C,March,Wednesday,9,0,NULL,NULL,1,42,25,0.627,0,Southeast,Eastern,41,31,0.569,1,1,0,0,81785.00,1742116.00,0.05
+2021,2022-03-22 Chicago Bulls,3/22/2022,Chicago Bulls,37,13,C,March,Tuesday,22,0,NULL,NULL,1,45,27,0.625,2,Central,Eastern,31,41,0.431,0,0,0,0,135098.00,1951654.00,0.07
+2021,2022-03-24 Washington Wizards,3/24/2022,Washington Wizards,38,2,B,March,Thursday,24,0,NULL,NULL,1,46,27,0.63,1,Southeast,Eastern,34,38,0.472,1,0,0,0,73580.00,1741070.00,0.04
+2021,2022-04-01 Los Angeles Clippers,4/1/2022,Los Angeles Clippers,39,8,B,April,Friday,1,0,NULL,NULL,0,48,29,0.623,2,Pacific,Western,47,25,0.653,1,1,0,0,92478.00,1835984.00,0.05
+2021,2022-04-03 Dallas Mavericks,4/3/2022,Dallas Mavericks,40,2,B,April,Sunday,3,0,NULL,NULL,0,48,30,0.615,1,Southwest,Western,42,30,0.583,1,0,0,0,76646.00,1947531.00,0.04
+2021,2022-04-07 Boston Celtics,4/7/2022,Boston Celtics,41,4,B,April,Thursday,7,0,NULL,NULL,1,50,30,0.625,2,Atlantic,Eastern,36,36,0.5,1,0,0,0,97232.00,1822060.00,0.05
+2022,2022-10-22 Houston Rockets,10/22/2022,Houston Rockets,1,0,C,October,Saturday,22,0,NULL,1,1,2,0,1,0,Southwest,Western,20,62,0.244,0,0,0,0,48043.00,1765731.00,0.03
+2022,2022-10-26 Brooklyn Nets,10/26/2022,Brooklyn Nets,2,4,C,October,Wednesday,26,0,NULL,NULL,1,3,0,1,1,Atlantic,Eastern,44,38,0.537,1,0,0,0,75934.00,1771167.00,0.04
+2022,2022-10-28 New York Knicks,10/28/2022,New York Knicks,3,2,C,October,Friday,28,0,NULL,NULL,1,4,0,1,0,Atlantic,Eastern,37,45,0.451,0,0,0,0,30983.00,1726919.00,0.02
+2022,2022-10-29 Atlanta Hawks,10/29/2022,Atlanta Hawks,4,1,C,October,Saturday,29,0,NULL,NULL,1,5,0,1,2,Southeast,Eastern,43,39,0.524,1,0,0,0,14467.00,1640134.00,0.01
+2022,2022-10-31 Detroit Pistons,10/31/2022,Detroit Pistons,5,2,D,October,Monday,31,1,Halloween,NULL,1,6,0,1,0,Central,Eastern,23,59,0.28,0,0,0,0,17394.00,1556401.00,0.01
+2022,2022-11-02 Detroit Pistons,11/2/2022,Detroit Pistons,6,2,D,November,Wednesday,2,0,NULL,NULL,1,7,0,1,0,Central,Eastern,23,59,0.28,0,0,0,0,84374.00,1594074.00,0.05
+2022,2022-11-05 Oklahoma City Thunder,11/5/2022,Oklahoma City Thunder,7,3,D,November,Saturday,5,0,NULL,1,1,9,0,1,0,Northwest,Western,24,58,0.293,0,0,0,0,40970.00,1817622.00,0.02
+2022,2022-11-14 Atlanta Hawks,11/14/2022,Atlanta Hawks,8,9,D,November,Monday,14,0,NULL,NULL,0,10,3,0.769,2,Southeast,Eastern,43,39,0.524,1,0,0,0,67393.00,1651113.00,0.04
+2022,2022-11-16 Cleveland Cavaliers,11/16/2022,Cleveland Cavaliers,9,2,D,November,Wednesday,16,0,NULL,NULL,1,11,3,0.786,3,Central,Eastern,44,38,0.537,0,0,0,0,113074.00,1834687.00,0.06
+2022,2022-11-21 Portland Trail Blazers,11/21/2022,Portland Trail Blazers,10,5,D,November,Monday,21,0,NULL,NULL,1,12,4,0.75,0,Northwest,Western,27,55,0.329,0,0,0,0,64044.00,1778432.00,0.04
+2022,2022-11-23 Chicago Bulls,11/23/2022,Chicago Bulls,11,2,A,November,Wednesday,23,0,NULL,NULL,0,12,5,0.706,2,Central,Eastern,46,36,0.561,1,0,0,0,66236.00,2014384.00,0.03
+2022,2022-11-25 Cleveland Cavaliers,11/25/2022,Cleveland Cavaliers,12,2,C,November,Friday,25,0,NULL,NULL,1,13,5,0.722,3,Central,Eastern,44,38,0.537,0,0,0,0,79692.00,1926424.00,0.04
+2022,2022-11-27 Dallas Mavericks,11/27/2022,Dallas Mavericks,13,2,C,November,Sunday,27,0,NULL,NULL,1,14,5,0.737,1,Southwest,Western,52,30,0.634,1,0,0,0,22002.00,1739083.00,0.01
+2022,2022-12-02 Los Angeles Lakers,12/2/2022,Los Angeles Lakers,14,5,A,December,Friday,2,0,NULL,NULL,0,15,6,0.714,1,Pacific,Western,33,49,0.402,0,0,0,0,186232.00,2473418.00,0.08
+2022,2022-12-07 Sacramento Kings,12/7/2022,Sacramento Kings,15,5,D,December,Wednesday,7,0,NULL,NULL,1,18,6,0.75,0,Pacific,Western,30,52,0.366,0,0,0,0,122268.00,1815870.00,0.07
+2022,2022-12-13 Golden State Warriors,12/13/2022,Golden State Warriors,16,6,A,December,Tuesday,13,0,NULL,NULL,1,20,7,0.741,3,Pacific,Western,53,29,0.646,1,1,1,1,204767.00,2422170.00,0.08
+2022,2022-12-17 Utah Jazz,12/17/2022,Utah Jazz,17,4,D,December,Saturday,17,0,NULL,NULL,1,21,8,0.724,0,Northwest,Western,49,33,0.598,1,0,0,0,110938.00,1946505.00,0.06
+2022,2022-12-30 Minnesota Timberwolves,12/30/2022,Minnesota Timberwolves,18,13,C,December,Friday,30,0,NULL,NULL,1,23,12,0.657,2,Northwest,Western,46,36,0.561,1,0,0,0,103661.00,1982319.00,0.05
+2022,2023-01-01 Washington Wizards,1/1/2023,Washington Wizards,19,2,C,January,Sunday,1,1,New Year's Day,1,0,23,13,0.639,0,Southeast,Eastern,35,47,0.427,0,0,0,0,49193.00,1849996.00,0.03
+2022,2023-01-03 Washington Wizards,1/3/2023,Washington Wizards,20,2,D,January,Tuesday,3,0,NULL,NULL,1,24,13,0.649,0,Southeast,Eastern,35,47,0.427,0,0,0,0,63139.00,1848199.00,0.03
+2022,2023-01-06 Charlotte Hornets,1/6/2023,Charlotte Hornets,21,3,C,January,Friday,6,0,NULL,NULL,0,25,14,0.641,1,Southeast,Eastern,43,39,0.524,0,0,0,0,101030.00,1998194.00,0.05
+2022,2023-01-16 Indiana Pacers,1/16/2023,Indiana Pacers,22,10,D,January,Monday,16,1,Martin Luther King Jr. Day,NULL,1,28,16,0.636,0,Central,Eastern,25,57,0.305,0,0,0,0,77767.00,1906394.00,0.04
+2022,2023-01-17 Toronto Raptors,1/17/2023,Toronto Raptors,23,1,C,January,Tuesday,17,0,NULL,NULL,1,29,16,0.644,1,Atlantic,Eastern,48,34,0.585,1,0,0,0,104425.00,1884341.00,0.06
+2022,2023-01-25 Denver Nuggets,1/25/2023,Denver Nuggets,24,8,D,January,Wednesday,25,0,NULL,NULL,1,31,17,0.646,1,Northwest,Western,48,34,0.585,1,0,0,0,120347.00,1925499.00,0.06
+2022,2023-01-29 New Orleans Pelicans,1/29/2023,New Orleans Pelicans,25,4,C,January,Sunday,29,0,NULL,NULL,1,33,17,0.66,0,Southwest,Western,36,46,0.439,1,0,0,0,52289.00,1888100.00,0.03
+2022,2023-01-31 Charlotte Hornets,1/31/2023,Charlotte Hornets,26,2,C,January,Tuesday,31,0,NULL,NULL,1,34,17,0.667,1,Southeast,Eastern,43,39,0.524,0,0,0,0,142021.00,1809679.00,0.08
+2022,2023-02-02 Los Angeles Clippers,2/2/2023,Los Angeles Clippers,27,2,A,February,Thursday,2,0,NULL,NULL,1,35,17,0.673,0,Pacific,Western,42,40,0.512,0,0,0,0,75605.00,1763278.00,0.04
+2022,2023-02-04 Miami Heat,2/4/2023,Miami Heat,28,2,C,February,Saturday,4,0,NULL,NULL,1,36,17,0.679,1,Southeast,Eastern,53,29,0.646,1,1,0,0,133673.00,2068156.00,0.06
+2022,2023-02-14 Boston Celtics,2/14/2023,Boston Celtics,29,10,A,February,Tuesday,14,1,Valentine's Day,NULL,1,40,17,0.702,1,Atlantic,Eastern,51,31,0.622,1,1,1,0,105088.00,2088530.00,0.05
+2022,2023-02-24 Miami Heat,2/24/2023,Miami Heat,30,10,C,February,Friday,24,0,NULL,NULL,1,42,17,0.712,1,Southeast,Eastern,53,29,0.646,1,1,0,0,104695.00,1958678.00,0.05
+2022,2023-02-26 Phoenix Suns,2/26/2023,Phoenix Suns,31,2,B,February,Sunday,26,0,NULL,NULL,1,43,17,0.717,2,Pacific,Western,64,18,0.78,1,0,0,0,111288.00,2116037.00,0.05
+2022,2023-03-01 Orlando Magic,3/1/2023,Orlando Magic,32,3,D,March,Wednesday,1,0,NULL,NULL,1,45,17,0.726,0,Southeast,Eastern,22,60,0.268,0,0,0,0,107836.00,1790659.00,0.06
+2022,2023-03-04 Philadelphia 76ers,3/4/2023,Philadelphia 76ers,33,3,A,March,Saturday,4,0,NULL,NULL,0,45,18,0.714,2,Atlantic,Eastern,51,31,0.622,1,0,0,0,118867.00,2307112.00,0.05
+2022,2023-03-09 Brooklyn Nets,3/9/2023,Brooklyn Nets,34,5,B,March,Thursday,9,0,NULL,NULL,1,48,18,0.727,1,Atlantic,Eastern,44,38,0.537,1,0,0,0,155868.00,1985909.00,0.08
+2022,2023-03-16 Indiana Pacers,3/16/2023,Indiana Pacers,35,7,B,March,Thursday,16,0,NULL,NULL,0,50,20,0.714,0,Central,Eastern,25,57,0.305,0,0,0,0,131005.00,1994914.00,0.07
+2022,2023-03-19 Toronto Raptors,3/19/2023,Toronto Raptors,36,3,B,March,Sunday,19,0,NULL,NULL,1,51,20,0.718,1,Atlantic,Eastern,48,34,0.585,1,0,0,0,63674.00,1950514.00,0.03
+2022,2023-03-22 San Antonio Spurs,3/22/2023,San Antonio Spurs,37,3,D,March,Wednesday,22,0,NULL,NULL,1,52,20,0.722,0,Southwest,Western,34,48,0.415,0,0,0,0,109719.00,1928239.00,0.06
+2022,2023-03-30 Boston Celtics,3/30/2023,Boston Celtics,38,8,A,March,Thursday,30,0,NULL,NULL,0,55,22,0.714,1,Atlantic,Eastern,51,31,0.622,1,1,1,0,207890.00,2367048.00,0.09
+2022,2023-04-02 Philadelphia 76ers,4/2/2023,Philadelphia 76ers,39,3,B,April,Sunday,2,0,NULL,NULL,1,56,22,0.718,2,Atlantic,Eastern,51,31,0.622,1,0,0,0,80229.00,1957190.00,0.04
+2022,2023-04-05 Chicago Bulls,4/5/2023,Chicago Bulls,40,3,A,April,Wednesday,5,0,NULL,NULL,1,58,22,0.725,2,Central,Eastern,46,36,0.561,1,0,0,0,204400.00,2101114.00,0.10
+2022,2023-04-07 Memphis Grizzlies,4/7/2023,Memphis Grizzlies,41,2,B,April,Friday,7,0,NULL,NULL,0,58,23,0.716,1,Southwest,Western,56,26,0.683,1,1,0,0,154873.00,2177014.00,0.07
